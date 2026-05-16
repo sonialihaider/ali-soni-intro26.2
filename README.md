@@ -1,2 +1,2 @@
-# ali-soni-intro26.2
+# alihaider-soni-intro26.2
 Portfolio Project for Intro to Programming Course with Code the Dream
