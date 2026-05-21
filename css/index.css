@@ -1,0 +1,71 @@
+body {
+  background-color: #f4f4f4;
+  color: #222;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: white;
+  padding: 18px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+nav a {
+  color: purple;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-size: 42px;
+  margin: 35px 0;
+}
+
+section {
+  background-color: white;
+  max-width: 900px;
+  margin: 25px auto;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+h2 {
+  color: teal;
+  margin-top: 0;
+}
+
+#Experience ul {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+#Experience li {
+  background-color: #e8f4f4;
+  padding: 10px 14px;
+  border-radius: 8px;
+}
+
+#Connect {
+  display: block;
+}
+
+#Connect a {
+  color: purple;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+#Connect a:hover,
+nav a:hover {
+  color: red;
+}
