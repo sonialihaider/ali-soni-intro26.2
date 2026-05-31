@@ -55,7 +55,9 @@ h2 {
 }
 
 #Connect {
-  display: block;
+  display: flex;
+  gap: 20px;
+  align-items: center;
 }
 
 #Connect a {
