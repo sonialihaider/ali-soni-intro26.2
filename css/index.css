@@ -71,3 +71,23 @@ h2 {
 nav a:hover {
   color: red;
 }
+
+#Skills ul {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+#Skills li {
+  background-color: #e8f4f4;
+  padding: 10px 14px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #555;
+}
